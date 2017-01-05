@@ -85,6 +85,3 @@ client/bower_components
 .floobit
 .floo
 .flooignore
-
-## API keys
-client/env/config.js
